@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:<br>
       - 📸 IG @faceless_on<br>
-      - 📩 Mail streamface@bk.ru
+      - 📩 Mail faceless_on@vk.com
 
 <!---
 FacelessOn/FacelessOn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
